@@ -35,22 +35,6 @@ This slide deck is designed to break down these core ideas in a **visual and sim
 
 ---
 
-## 📣 Stay Tuned
-
-Future parts will dive into:
-- HTML & CSS basics  
-- JavaScript fundamentals  
-- Frontend vs Backend  
-- Deployment, Git, APIs, and more
-
----
-
-## 📎 Preview
-
-*(Add a preview image or GIF of the slide deck here if you'd like)*
-
----
-
 ## 🚀 How to Use
 
 Feel free to:
